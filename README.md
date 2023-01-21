@@ -11,3 +11,5 @@ deleting using filter function
 
 ### Limit
 limiting data to show using slice function by separate component similar to search
+
+### Country URL = url = "https://restcountries.com/v3.1/all"
